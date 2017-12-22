@@ -1,0 +1,2 @@
+# CreppleCoin
+CreppleCoin Mining wallet
