@@ -1,0 +1,9 @@
+Building CreppleCoin
+
+See doc/readme-qt.rst for instructions on building CreppleCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CreppleCoin.
+
+See doc/build-*.txt for instructions on building crepplecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CreppleCoin.
